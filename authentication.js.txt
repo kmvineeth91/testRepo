@@ -1,2 +1,2 @@
-function login(username,password){
+function login(email,password){
 }
